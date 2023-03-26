@@ -1,0 +1,40 @@
+*{
+  box-sizing: border-box;
+
+}
+html{
+  font-size: 62.5%;
+  font-family: 'Shadows Into Light', cursive;  
+  background-size: 25%;
+  color: white;
+  background-image: url(../img/background.jpeg);
+  
+}
+section{
+  height: 500px;
+  width: 100%;
+  display: block;
+  float: left;
+  text-align: center;
+  font-size: 3rem;
+}
+
+section table{
+  text-align: center;
+  margin: auto;
+}
+.gamebox{
+  padding-top:20%;
+  background-color: bisque;
+  display:inline-block;
+}
+.button{
+  height: 7%;
+  display:block;
+  margin: auto;
+  display: inline;
+  text-align: center; 
+  background-color: beige;
+  background-color: beige;
+  border: 1px solid beige;
+}
